@@ -1,4 +1,4 @@
-// Print sum of 1 to n
+// Question: Print sum of 1 to n
 
 package Recursion;
 import java.util.Scanner;
